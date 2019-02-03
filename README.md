@@ -55,7 +55,7 @@ Ideally this new strategy would present itself to display an inventory of the gr
 -   Decaying Forced Incubation Period
     -   A generous period of time allotted for users to contribute ideas without fear of thinking against the clock and prevents hasty decision making.
     -   Once the timer is up, engage in evaluation techniques, then vote on layer consensus.
-    -   The largest amount of time should be allotted for the highest layer, then decreased for each successive, lower layer, as ideas and tasks become and narrower more technical in scope.
+    -   The largest amount of time should be allotted for the highest layer, then decreased for each successive, lower layer, as ideas and tasks become and narrower and more technical in scope.
 
 **Mix in solid brainstorming evaluation techniques:** (hatrabbits.com):
 
