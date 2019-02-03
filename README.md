@@ -53,9 +53,9 @@ Ideally this new strategy would present itself to display an inventory of the gr
     -   Ideally the highest layer being the problem or vision of a feature/product, and the lowest layer being something that can be readily placed into a sprint plan. 
     -   A contributing user may call an anonymous poll at any time to accept the existing layer and advance to the next, lower layer. A consensus must be reached to advance. This will give unsure users time to voice (text) any concerns.  
 -   Decaying Forced Incubation Period
-    -   A generous period of time alloted for users to contribute ideas without fear of thinking against the clock and prevents hasty decision making.
+    -   A generous period of time allotted for users to contribute ideas without fear of thinking against the clock and prevents hasty decision making.
     -   Once the timer is up, engage in evaluation techniques, then vote on layer consensus.
-    -   The largest amount of time should be alloted for the highest layer, then decreased for each successive, lower layer, as ideas and tasks become and narrower more technical in scope.
+    -   The largest amount of time should be allotted for the highest layer, then decreased for each successive, lower layer, as ideas and tasks become and narrower more technical in scope.
 
 **Mix in solid brainstorming evaluation techniques:** (hatrabbits.com):
 
